@@ -49,3 +49,7 @@
 .country img{
   width: 150px;
 }
+.header a{
+  text-decoration: none;
+  margin-right: 15px;
+}
